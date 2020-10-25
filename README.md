@@ -5,6 +5,10 @@ There are other parts of the system which are located within different repositor
 - [Mobile apps (Android and iOS) - Ionic 4 and Angular 8](https://github.com/rafalschmidt97/skelvy-client)
 - [Website - Wordpress](https://github.com/rafalschmidt97/skelvy-website)
 
+## Graphics
+
+You can find all photoshop projects, logos, flyers, different social media documents and more within [docs/graphics](docs/graphics).
+
 ## Development
 
 Current state of development is available to see on [trello](https://trello.com/b/MCzNyRJf).
